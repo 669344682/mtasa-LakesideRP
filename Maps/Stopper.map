@@ -1,0 +1,12 @@
+<map edf:definitions="editor_main">
+    <object id="object (lib_street12) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="3900" doublesided="true" scale="1" dimension="0" posX="1510.7" posY="-1732.2" posZ="12.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (lib_street12) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="3900" doublesided="true" scale="1" dimension="0" posX="1461" posY="-1732.2" posZ="12.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (lib_street12) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="3900" doublesided="true" scale="1" dimension="0" posX="1228.8" posY="-1852.3" posZ="12.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (lib_street12) (7)" breakable="true" interior="0" collisions="true" alpha="255" model="3900" doublesided="true" scale="1" dimension="0" posX="1255.9" posY="-1852.3" posZ="12.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (lib_street12) (8)" breakable="true" interior="0" alpha="255" model="3900" doublesided="false" scale="1" dimension="0" posX="1203.4" posY="-946.59998" posZ="41.7" rotX="0" rotY="0" rotZ="101"></object>
+    <object id="object (lib_street12) (9)" breakable="true" interior="0" alpha="255" model="3900" doublesided="false" scale="1" dimension="0" posX="1201.4" posY="-936.70001" posZ="41.7" rotX="0" rotY="0" rotZ="100.997"></object>
+    <object id="object (lib_street12) (10)" breakable="true" interior="0" alpha="255" model="3900" doublesided="false" scale="1" dimension="0" posX="1228.8" posY="-931.70001" posZ="41.5" rotX="0" rotY="0" rotZ="102.497"></object>
+    <object id="object (lib_street12) (11)" breakable="true" interior="0" alpha="255" model="3900" doublesided="false" scale="1" dimension="0" posX="1231" posY="-941.59998" posZ="41.5" rotX="0" rotY="0" rotZ="102.497"></object>
+    <object id="object (lib_street12) (12)" breakable="true" interior="0" alpha="255" model="3900" doublesided="true" scale="1" dimension="0" posX="2081.6001" posY="-1844.5" posZ="12.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (lib_street12) (13)" breakable="true" interior="0" alpha="255" model="3900" doublesided="true" scale="1" dimension="0" posX="2083.6001" posY="-1784.5" posZ="12.3" rotX="0" rotY="0" rotZ="345"></object>
+</map>

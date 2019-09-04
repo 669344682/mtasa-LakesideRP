@@ -1,0 +1,12 @@
+<map edf:definitions="editor_main">
+    <object id="object (kmb_atm1) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="2942" doublesided="false" scale="1" dimension="0" posX="1747.6" posY="-1863.6" posZ="13.2" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (kmb_atm1) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="2942" doublesided="false" scale="1" dimension="0" posX="1468.5" posY="-1751.5" posZ="15.1" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kmb_atm1) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="2942" doublesided="false" scale="1" dimension="0" posX="1494" posY="-1751.5" posZ="15.1" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (kmb_atm1) (4)" breakable="true" interior="0" collisions="true" alpha="255" model="2942" doublesided="false" scale="1" dimension="0" posX="1000.6" posY="-921.20001" posZ="42" rotX="0" rotY="0" rotZ="278"></object>
+    <object id="object (kmb_atm1) (5)" breakable="true" interior="0" collisions="true" alpha="255" model="2942" doublesided="true" scale="1" dimension="0" posX="1196" posY="-918.59998" posZ="42.8" rotX="0" rotY="0" rotZ="7.25"></object>
+    <object id="object (kmb_atm1) (6)" breakable="true" interior="0" collisions="true" alpha="255" model="2942" doublesided="false" scale="1" dimension="0" posX="1095.6" posY="-1735.3" posZ="13.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmb_atm1) (7)" breakable="true" interior="0" alpha="255" model="2942" doublesided="false" scale="1" dimension="0" posX="2130.2" posY="-1151.3" posZ="23.6" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (kmb_atm1) (8)" breakable="true" interior="0" alpha="255" model="2942" doublesided="false" scale="1" dimension="0" posX="1928.6" posY="-1780.2" posZ="13.2" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kmb_atm1) (9)" breakable="true" interior="0" alpha="255" model="2942" doublesided="false" scale="1" dimension="0" posX="1367.2" posY="-1276" posZ="13.2" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (kmb_atm1) (10)" breakable="true" interior="0" alpha="255" model="2942" doublesided="false" scale="1" dimension="0" posX="1179.6" posY="-1304.2" posZ="13.9" rotX="0" rotY="0" rotZ="90"></object>
+</map>

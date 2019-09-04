@@ -1,0 +1,15 @@
+<map edf:definitions="editor_main">
+    <object id="object (fenceshit3) (1)" breakable="true" interior="0" alpha="255" model="983" doublesided="true" scale="1" dimension="0" posX="1185.7" posY="-1332.5" posZ="13" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fenceshit3) (2)" breakable="true" interior="0" alpha="255" model="983" doublesided="true" scale="1" dimension="0" posX="1185.7" posY="-1314.9" posZ="13" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fenceshit3) (3)" breakable="true" interior="0" alpha="255" model="983" doublesided="true" scale="1" dimension="0" posX="1185.7" posY="-1327.7" posZ="13" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fenceshit3) (4)" breakable="true" interior="0" alpha="255" model="983" doublesided="true" scale="1" dimension="0" posX="1185.7" posY="-1319.7" posZ="13" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (bollard) (1)" breakable="true" interior="0" alpha="255" model="1214" doublesided="true" scale="1" dimension="0" posX="1184.9" posY="-1323.7" posZ="12.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fenceshit3) (5)" breakable="true" interior="0" alpha="255" model="983" doublesided="true" scale="1" dimension="0" posX="1182.5" posY="-1335.7" posZ="13" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (fenceshit3) (6)" breakable="true" interior="0" alpha="255" model="983" doublesided="true" scale="1" dimension="0" posX="1182.5" posY="-1311.7" posZ="13" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kb_planter_bush2) (1)" breakable="true" interior="0" alpha="255" model="640" doublesided="true" scale="1" dimension="0" posX="1185.2" posY="-1332.9" posZ="13.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_planter_bush2) (2)" breakable="true" interior="0" alpha="255" model="640" doublesided="true" scale="1" dimension="0" posX="1185.2" posY="-1327.5" posZ="13.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_planter_bush2) (3)" breakable="true" interior="0" alpha="255" model="640" doublesided="true" scale="1" dimension="0" posX="1185.2" posY="-1319.9" posZ="13.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_planter_bush2) (4)" breakable="true" interior="0" alpha="255" model="640" doublesided="true" scale="1" dimension="0" posX="1185.2" posY="-1314.5" posZ="13.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_planter_bush2) (5)" breakable="true" interior="0" alpha="255" model="640" doublesided="true" scale="1" dimension="0" posX="1179.8" posY="-1315" posZ="13.9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_planter_bush2) (6)" breakable="true" interior="0" alpha="255" model="640" doublesided="true" scale="1" dimension="0" posX="1179.8" posY="-1332.5" posZ="13.9" rotX="0" rotY="0" rotZ="0"></object>
+</map>

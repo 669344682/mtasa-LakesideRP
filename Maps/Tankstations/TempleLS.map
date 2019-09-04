@@ -1,0 +1,7 @@
+<map edf:definitions="editor_main">
+    <object id="object (washgaspump) (1)" breakable="true" interior="0" alpha="255" model="1676" doublesided="true" scale="1" dimension="0" posX="1007.7" posY="-936.29999" posZ="42.9" rotX="0" rotY="0" rotZ="7.75"></object>
+    <object id="object (washgaspump) (2)" breakable="true" interior="0" alpha="255" model="1676" doublesided="true" scale="1" dimension="0" posX="1000.4" posY="-937.40002" posZ="42.9" rotX="0" rotY="0" rotZ="7.745"></object>
+    <object id="object (fenceshit3) (1)" breakable="true" interior="0" alpha="255" model="983" doublesided="true" scale="1" dimension="0" posX="1000.5" posY="-948.90002" posZ="41.7" rotX="0" rotY="0" rotZ="97.5"></object>
+    <object id="object (fenceshit3) (3)" breakable="true" interior="0" alpha="255" model="983" doublesided="true" scale="1" dimension="0" posX="1006.8" posY="-948.09998" posZ="41.7" rotX="0" rotY="0" rotZ="97.498"></object>
+    <object id="object (xenonsign2_SFSe) (1)" breakable="true" interior="0" alpha="255" model="11417" doublesided="true" scale="1" dimension="0" posX="1013.5" posY="-948.20001" posZ="46.1" rotX="0" rotY="0" rotZ="354"></object>
+</map>
