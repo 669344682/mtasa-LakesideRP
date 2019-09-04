@@ -220,9 +220,9 @@ bindKey("i","down",function()
 												dgsCloseWindow(Lakeside.Window[1])
 												setWindowData("remove","cursor_clicked",false)
 											else
-												local amount=tonumber(dgsGetText(Lakeside.Edit[1]))or 0
-												if(isOnlyNumbers(amount)and tonumber(amount)>=1)then
-													triggerServerEvent("use:item",lp,selectedItem,tonumber(amount))
+												local amount=dgsGetText(Lakeside.Edit[1])or 0
+												if(isOnlyNumbers(amount)and math.floor(amount)>=1)then
+													triggerServerEvent("use:item",lp,selectedItem,math.floor(amount))
 													if(isElement(Lakeside.Image[1]))then
 														Lakeside.Image[1]:destroy()
 													end
