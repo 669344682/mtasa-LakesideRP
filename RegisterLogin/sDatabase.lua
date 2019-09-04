@@ -38,17 +38,6 @@ function MySQL_Connection()
 end
 addEventHandler("onResourceStart",resourceRoot,MySQL_Connection)
 
-addEventHandler("onResourceStart",resourceRoot,function()
-fetchRemote("http://checkip.dyndns.com/",function(response)
-		if response~="ERROR" then
-			local SERVER_IP=response:match("<body>Current IP Address: (.-)</body>")or "46.105.179.102"
-			if(SERVER_IP=="46.105.179.102")then
-				return
-			end
-		end getThisResource():stop()
-	end)
-end)
-
 function getData(from,where,name,data)
 	local sql=dbQuery(handler,"SELECT * FROM ?? WHERE ??=?",from,where,name)
 	local row=dbPoll(sql,-1)
@@ -90,23 +79,16 @@ addEventHandler("onPlayerConnect",root,function(ni,ip,uni,se,ver)
 			handler:exec("DELETE FROM ?? WHERE ??=?","userbans","Serial",se)
 		end
 	end
-	
-	--[[local result=dbPoll(dbQuery(handler,"SELECT * FROM ?? WHERE ??=?","whitelist","Serial",se),-1)
-	if(result and result[1])then
-		return true
-	else
-		cancelEvent(true,"You are not on the Alpha list!")
-	]]
 end)
 
 
 
 
---[[addEventHandler("onPlayerCommand",root,function(cmd)
+addEventHandler("onPlayerCommand",root,function(cmd)
 	if(not isLoggedin(source))then
 		cancelEvent()
 	end
-end)]]
+end)
 
 
 
