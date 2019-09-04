@@ -7,9 +7,7 @@
     
     <include resource="DGS" />
     <include resource="realdriveby" />
-    <include resource="Superman" />
     <include resource="blur_box" />
-    <include resource="Lakeside_Modloader" />
     
     <!--//Maps\\-->
     <map src="Maps/NewbieSpawn.map" />
