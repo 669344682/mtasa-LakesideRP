@@ -7,9 +7,9 @@
 local DB={
 HOST="127.0.0.1",
 PORT="3306",
-NAME="LakesideRP",
-PASS="Ix4@CnJJ_..--.-_uIEBy@85q64j1Z",
-USER="LakesideRP",
+NAME="",
+PASS="",
+USER="",
 }
 
 playerUID={}
